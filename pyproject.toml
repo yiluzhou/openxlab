@@ -28,7 +28,7 @@ dependencies = [
 "setuptools>=60.2.0,<81",
 "rich~=13.4.2",
 "packaging~=24.0",
-"filelock~=3.14.0"
+"filelock>=3.14.0,<4"
 ]
 
 [tool.poetry.dependencies]
